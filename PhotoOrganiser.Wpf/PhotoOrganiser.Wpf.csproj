@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23FADEDB-7A51-4A03-AB5A-A4E9014599D8}</ProjectGuid>
+    <ProjectGuid>{C7C1AEF1-D81D-4D57-AD0A-495497C002B2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>PhotoOrganiser.Wpf</RootNamespace>
     <AssemblyName>PhotoOrganiser.Wpf</AssemblyName>
@@ -60,7 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PhotoOrganiser\PhotoOrganiser.csproj">
-      <Project>{99D91EA4-AD93-48F7-81C2-0B2191C28AE1}</Project>
+      <Project>{fc840163-fcc4-4c9d-bed7-4fdb2e066890}</Project>
       <Name>PhotoOrganiser</Name>
     </ProjectReference>
   </ItemGroup>
